@@ -10,12 +10,9 @@
 
 ## ✨ Sobre mim
 
-Profissional com mais de seis anos dedicados ao atendimento ao cliente e à consultoria financeira.
-
-
 Minha jornada tem sido guiada pela paixão por gerar valor real através da informação. 
 
-Ao entender os padrões e transformar métricas em decisões, percebi o potencial de crescer como Analista de Dados — conectando lógica, curiosidade e resolução de problemas.
+Busco entender os padrões e transformar métricas em decisões, percebi o potencial de crescer como Analista de Dados — conectando lógica, curiosidade e resolução de problemas.
 
 ➡️ Hoje, além do domínio das operações comerciais e do atendimento consultivo, estou em processo de desenvolvimento técnico, com foco em:
 - Análise exploratória de dados  
